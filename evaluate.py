@@ -57,7 +57,6 @@ class NTIRE_evaluation():
         
         return {'psnr':PSNR, 'ssim':SSIM, 'lpips':LPIPS, 'dists':DISTS, 'niqe':NIQE}
 
-
     def folder_score(self, lr_list, gt_list):
         psnr_list = []
         ssim_list = []
