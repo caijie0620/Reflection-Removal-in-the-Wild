@@ -84,8 +84,6 @@ class NTIRE_evaluation():
 
 
 # Default I/O directories:
-
-
 default_result_dir = './result/'
 default_GT_dir = './GT/'
 
