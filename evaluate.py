@@ -14,7 +14,6 @@ def ls(filename):
 
 class NTIRE_evaluation():
     def __init__(self):
-
         self.iqa_psnr = pyiqa.create_metric('psnr', test_y_channel=False)
         self.iqa_ssim = pyiqa.create_metric('ssim', test_y_channel=False)
         self.iqa_lpips = pyiqa.create_metric('lpips')
@@ -24,7 +23,6 @@ class NTIRE_evaluation():
     def img2tensor(self, img, bgr2rgb, float32):
         '''
             Numpy array to tensor.
-
         Args:
             imgs (list[ndarray] | ndarray): Input images.
             bgr2rgb (bool): Whether to change bgr to rgb.
