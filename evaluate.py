@@ -93,7 +93,7 @@ if __name__ == '__main__':
     # Create the output directory, if it does not already exist and open output files
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    score_file = open(os.path.join(output_dir, 'scores_ACVLab.txt'), 'w')
+    score_file = open(os.path.join(output_dir, 'scores.txt'), 'w')
 
     # Get all the solution files from the solution directory
     hr_list = sorted(ls(os.path.join(default_GT_dir, '*.jpg')))         # GT
