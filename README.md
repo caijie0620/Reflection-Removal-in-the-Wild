@@ -1,4 +1,4 @@
-# NTIRE 2025: Reflection Removal in the Wild
+# NTIRE 2025: SIRR in the Wild
 🚧 Coming Soon...
 
 
