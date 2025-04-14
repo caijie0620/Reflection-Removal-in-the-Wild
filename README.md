@@ -10,7 +10,7 @@ The dataset contains:
 - `test_100.zip`: Contains Input images only
 
 ## Final Ranking
-![Final Ranking](../assets/images/Final_Ranking.png)
+![Final Ranking](./assets/images/Final_Ranking.png)
 
 ## Citation
 
