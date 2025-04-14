@@ -1,6 +1,13 @@
 # NTIRE 2025: SIRR in the Wild
-🚧 Coming Soon...
 
+## Dataset
+The dataset for this challenge is available on Hugging Face 🤗:
+[NTIRE2025-SIRR Dataset](https://huggingface.co/datasets/qiuzhangTiTi/NTIRE2025-SIRR)
+
+The dataset contains:
+- `train_800.zip`: Contains both Input images and Ground Truth (GT)
+- `val_100.zip`: Contains Input images only
+- `test_100.zip`: Contains Input images only
 
 ## Citation
 
