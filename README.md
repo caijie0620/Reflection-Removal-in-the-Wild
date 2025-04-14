@@ -9,6 +9,9 @@ The dataset contains:
 - `val_100.zip`: Contains Input images only
 - `test_100.zip`: Contains Input images only
 
+## Final Ranking
+![Final Ranking](../assets/images/Final_Ranking.png)
+
 ## Citation
 
 If you find our code helpful in your research or work please cite our paper.
