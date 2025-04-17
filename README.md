@@ -12,6 +12,14 @@ The dataset contains:
 ## Final Ranking
 ![Final Ranking](./assets/images/Final_Ranking.png)
 
+
+## 📢 **Repository Renamed**
+
+This repository was previously named **`Reflection-Removal-in-the-Wild`**, and has been renamed to **`OpenRR-1k`** to better reflect its scope as an open benchmark for real-world reflection removal.
+
+All previous links to the old repository name will continue to work via GitHub redirection.
+
+
 ## Citation
 
 If you find our code helpful in your research or work please cite our paper.
